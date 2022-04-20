@@ -9,4 +9,3 @@ def usingInit():
     g_1 = Guest("Jayvee", "Mapote", "Anime", 2020161610)
     print(g_1.first)
 
-help("modules")
